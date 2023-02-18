@@ -39,7 +39,20 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>   
 </p>
 <br>
-<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashmangal05&show_icons=true&locale=en&layout=compact" alt="yashmangal05" /></p>
 
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashmangal05&" alt="yashmangal05" /></p>
+<p align="center">
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yashmangal05&langs_count=5&theme=omni)]()
+  <br>  
+  </p>
+  <br>
+<p align="center">
+  
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=yashmangal05&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  
+  
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=yashmangal05&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+  
+</p>
+
 
